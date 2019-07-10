@@ -1,7 +1,7 @@
 # Ud2_Ejemplo2
 _Ejemplo 2 de la Unidad 2._
 
-Vemos algunos de los atributos de TextView más utilizados, sólo hemos de fijarnos en el fichero _main_activity.xml_ y en concreto en las siguientes líneas:  
+Vemos algunos de los atributos de TextView más utilizados, sólo hemos de fijarnos en el fichero _activity_main.xml_ y en concreto en las siguientes líneas:  
 
 ```
 <TextView
